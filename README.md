@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h2 align="center">Weather-App</h2>
+  <h2 align="center">GitHub-Search-App</h2>
 </div>
 
 <!-- ABOUT THE PROJECT -->
